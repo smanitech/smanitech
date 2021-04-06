@@ -1,5 +1,5 @@
 ### 🙏 नमस्ते, I'm Suraj Mani 👋
-<h3>A passionate developer from India having taste of major technologies.</h3>
+<h3>A passionate Developer from India having taste of major Technologies.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-smanitech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smanitech/)](https://www.linkedin.com/in/smanitech/) 
 [![Twitter Badge](https://img.shields.io/badge/-@smanitech-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/smanitech)](https://twitter.com/smanitech) 
