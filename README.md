@@ -30,11 +30,16 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
 
 <a href="https://github.com/smanitech">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smanitech&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=27" alt="Suraj's github stats"/>
@@ -44,7 +49,7 @@
 </a>
 
 <br>
-<img src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="center"  alt="Coder GIF" width="800" height="400">
+<img src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="center"  alt="Coder GIF" width="600" height="300">
 
 ### 📰 Latest Blog Posts:
 - Best Bulk Email sendor tool for a Developer Community. 
