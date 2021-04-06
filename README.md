@@ -34,6 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
 
 <a href="https://github.com/smanitech">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smanitech&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=27" alt="Suraj's github stats"/>
@@ -41,6 +42,9 @@
 <a href="https://github.com/smanitech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanitech&theme=light&layout=compact&langs_count=10&hide_langs_below=1" />
 </a>
+
+<br>
+<img src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="center"  alt="Coder GIF" width="800" height="400">
 
 ### 📰 Latest Blog Posts:
 - Best Bulk Email sendor tool for a Developer Community. 
