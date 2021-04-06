@@ -11,13 +11,14 @@
 
 - 🔭 I’m currently working on a project to help farmers to sell their products independentaly. [Unifar.me](https://github.com/unifarme)
 - 🌱 I’m currently learning Flutter, Angular.
+- ⚡ Tech Lead at Developer Student Club - LPU.
+- ⚡ Team Lead at Amazon Alexa Developer Community - LPU.
 - 👯 I’m looking to collaborate with other Developer Community to solve local problems. 
 - 🤔 I’m looking forward to help my fellow colleagues & Juniors to learn new tech stacks.
 - 💬 Ask me anything about Code & Community.
 - 📫 How to reach me: [Twitter - @smanitech](https://twitter.com/intent/user?screen_name=smanitech) , [LinkedIn - @smanitech](https://www.linkedin.com/in/smanitech/)
 - 😄 Pronouns: He/Him 💁‍♂️
 - ⚡ Fun fact: Everyday i learn some new behind the scenes of technology used in any tech product. 
-
 
 [![Twitter: kindavishal](https://img.shields.io/twitter/follow/smanitech?style=social)](https://twitter.com/intent/user?screen_name=smanitech)
 [![Linkedin: kindavishal](https://img.shields.io/badge/-smanitech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smanitech/)](https://www.linkedin.com/in/smanitech/)
