@@ -55,4 +55,4 @@
 <img src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="center"  alt="Coder GIF" width="600" height="300">
 
 ### 📰 Latest Blog Posts:
-- Best Bulk Email sendor tool for a Developer Community. 
+- Git & GitHub: An Essential Tool For Developers! <a href="https://smanitech.medium.com/git-github-an-essential-tool-for-developers-cc0c387b2227">Read Here...</a>
