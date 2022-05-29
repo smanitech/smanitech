@@ -1,17 +1,16 @@
 ### 🙏 नमस्ते, I'm Suraj Mani 👋
 <h3>A passionate Developer from India having taste of major Technologies.</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-smanitech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smanitech/)](https://www.linkedin.com/in/smanitech/) 
+[![Linkedin Badge](https://img.shields.io/badge/-smanitech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajmani-me/)](https://www.linkedin.com/in/surajmani-me/) 
 [![Twitter Badge](https://img.shields.io/badge/-@smanitech-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/smanitech)](https://twitter.com/smanitech) 
-[![Facebook Badge](https://img.shields.io/badge/-smanitech-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/smanitech)](https://www.facebook.com/smanitech) 
+[![Facebook Badge](https://img.shields.io/badge/-smanitech-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tech.smani)](https://www.facebook.com/tech.smani) 
 [![Instagram Badge](https://img.shields.io/badge/-@smanitech-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/smanitech)](https://www.instagram.com/smanitech) 
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@smanitech-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/smanitech)](https://stackoverflow.com/cv/smanitech) 
 
 ### About Me:
 
-- 🔭 I’m currently working on a project to help farmers to sell their products independentaly. [Unifar.me](https://github.com/unifarme)
 - 🌱 I’m currently learning Flutter, Angular.
-- ⚡ Tech Lead at Developer Student Club - LPU.
+- ⚡ Community Lead at Developer Student Club - LPU.
 - ⚡ Team Lead at Amazon Alexa Developer Community - LPU.
 - 👯 I’m looking to collaborate with other Developer Community to solve local problems. 
 - 🤔 I’m looking forward to help my fellow colleagues & Juniors to learn new tech stacks.
@@ -20,8 +19,8 @@
 - 😄 Pronouns: He/Him 💁‍♂️
 - ⚡ Fun fact: Everyday i learn some new behind the scenes of technology used in any tech product. 
 
-[![Twitter: kindavishal](https://img.shields.io/twitter/follow/smanitech?style=social)](https://twitter.com/intent/user?screen_name=smanitech)
-[![Linkedin: kindavishal](https://img.shields.io/badge/-smanitech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smanitech/)](https://www.linkedin.com/in/smanitech/)
+[![Twitter: smanitech](https://img.shields.io/twitter/follow/smanitech?style=social)](https://twitter.com/intent/user?screen_name=smanitech)
+[![Linkedin: surajmani-me](https://img.shields.io/badge/-surajmani-me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajmani-me/)](https://www.linkedin.com/in/smanitech/)
 [![GitHub smanitech](https://img.shields.io/github/followers/smanitech?label=follow&style=social)](https://github.com/smanitech)
 
 ### Connect with me:
@@ -52,7 +51,5 @@
 </a>
 
 <br>
-<img src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="center"  alt="Coder GIF" width="600" height="300">
-
 ### 📰 Latest Blog Posts:
 - Git & GitHub: An Essential Tool For Developers! <a href="https://smanitech.medium.com/git-github-an-essential-tool-for-developers-cc0c387b2227">Read Here...</a>
