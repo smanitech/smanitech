@@ -20,7 +20,7 @@
 - ⚡ Fun fact: Everyday i learn some new behind the scenes of technology used in any tech product. 
 
 [![Twitter: smanitech](https://img.shields.io/twitter/follow/smanitech?style=social)](https://twitter.com/intent/user?screen_name=smanitech)
-[![Linkedin: surajmani-me](https://img.shields.io/badge/-surajmani-me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajmani-me/)](https://www.linkedin.com/in/smanitech/)
+[![Linkedin: surajmani-me](https://img.shields.io/badge/-surajmani_me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajmani-me/)](https://www.linkedin.com/in/surajmani-me/)
 [![GitHub smanitech](https://img.shields.io/github/followers/smanitech?label=follow&style=social)](https://github.com/smanitech)
 
 ### Connect with me:
