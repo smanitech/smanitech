@@ -1,7 +1,7 @@
 ### 🙏 नमस्ते, I'm Suraj Mani 👋
 <h3>A passionate Developer from India having taste of major Technologies.</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-smanitech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajmani-me/)](https://www.linkedin.com/in/surajmani-me/) 
+[![Linkedin Badge](https://img.shields.io/badge/-surajmani_me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajmani-me/)](https://www.linkedin.com/in/surajmani-me/) 
 [![Twitter Badge](https://img.shields.io/badge/-@smanitech-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/smanitech)](https://twitter.com/smanitech) 
 [![Facebook Badge](https://img.shields.io/badge/-smanitech-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tech.smani)](https://www.facebook.com/tech.smani) 
 [![Instagram Badge](https://img.shields.io/badge/-@smanitech-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/smanitech)](https://www.instagram.com/smanitech) 
